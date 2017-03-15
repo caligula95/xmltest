@@ -1,6 +1,11 @@
-.green-line {
+div .green-line {
+	height: 40px;
 	color: white;
-	background-color: green;
+	background: green;
+}
+
+#hidden{
+	display: none;
 }
 
 /* td { font-size:11px; font-family:Tahoma, Arial, geneva, Verdana;  color:586650;} */
